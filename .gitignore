@@ -1,0 +1,16 @@
+.DS_Store
+.vs
+
+# Excel temporary
+~$*.xls*
+ProjectM/Tools/DataTool.txt
+ProjectM/dirty.txt
+*.log
+ProjectM/Assets/Graphics/FX_Resources/Old_TexMat
+ProjectM/Assets/Resources/QAConfigs.asset
+ProjectM/Assets/Photon/BotSDK/VisualEditor/Editor/Assemblies/quantum.ai.editor.pdb.meta
+ProjectM/Packages/packages-lock.json
+ProjectM/ProjectSettings/GvhProjectSettings.xml
+
+# Rider generated file
+.idea
